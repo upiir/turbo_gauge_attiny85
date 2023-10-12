@@ -8,6 +8,24 @@ Turbo Gauge on SSD1306 IIC OLED with Sparkfun ATtiny85 board
 
 
 
+Links from the video:
+- Attiny85 Digispark board: https://s.click.aliexpress.com/e/_DC6lBqT
+- SSD1306xled library: https://github.com/tinusaur/ssd1306xled
+- Digistump drivers: https://github.com/digistump/DigistumpArduino/releases
+- Additional boards json file: http://digistump.com/package_digistump_index.json
+- 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb 
+- Colorful breadboards: https://s.click.aliexpress.com/e/_DmQH8V9
+- Potentiometer 10K: https://s.click.aliexpress.com/e/_DkU6R5D
+- Colorful knobs: https://s.click.aliexpress.com/e/_DlOIaoj
+- Image2cpp (convert array to image): https://javl.github.io/image2cpp/
+- Photopea (online graphics editor like Photoshop): https://www.photopea.com/
+
+
+Related videos with Arduino UNO and 128x64 OLED screen:
+- Arduino + OLED displays: https://www.youtube.com/playlist?list=PLjQRaMdk7pBZ1UV3IL5ol8Qc7R9k-kwXA
+
+
+
 ![THUMB_attiny85_turbo_gauge](https://github.com/upiir/turbo_gauge_attiny85/assets/117754156/b11f9041-ac43-463a-8eb7-d44b17678ec8)
 
 
