@@ -2,9 +2,9 @@
 Turbo Gauge on SSD1306 IIC OLED with Sparkfun ATtiny85 board
 
 
-**YOUTUBE VIDEO:**
+**YOUTUBE VIDEO: https://youtu.be/8IKBzZKTgD0**
 
-**WOKWI sketch:**
+**WOKWI sketch: https://wokwi.com/projects/378474884125460481**
 
 
 
