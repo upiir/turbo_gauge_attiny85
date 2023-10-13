@@ -6,6 +6,8 @@ Turbo Gauge on SSD1306 IIC OLED with Sparkfun ATtiny85 board
 
 **WOKWI sketch: https://wokwi.com/projects/378474884125460481**
 
+**Same project with Arduino UNO: https://youtu.be/JXmw1xOlBdk**
+
 
 
 Links from the video:
